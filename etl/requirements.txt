@@ -1,0 +1,4 @@
+pymongo
+SQLAlchemy
+vaderSentiment
+psycopg2-binary
